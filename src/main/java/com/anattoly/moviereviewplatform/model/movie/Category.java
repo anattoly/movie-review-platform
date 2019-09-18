@@ -1,4 +1,4 @@
-package com.anattoly.moviereviewplatform.model;
+package com.anattoly.moviereviewplatform.model.movie;
 
 public enum Category {
     ACTION("Action"),
